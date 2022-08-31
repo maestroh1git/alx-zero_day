@@ -1,1 +1,1 @@
-This is the git part of the repo
+This is the grit part of the repo
